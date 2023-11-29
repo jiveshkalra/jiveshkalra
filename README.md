@@ -24,5 +24,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jiveshkalra&show_icons=true&locale=en&layout=compact" alt="jiveshkalra" /></p>
 
-<p>[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jiveshkalra&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)</p>
- 
+![Jivesh's Github Activity Graph](<https://githubreadme-activitygraph-git-main-jiveshkalra.vercel.app>/graph?username=jiveshkalra)
