@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jivesh kalra</h1>
 <h3 align="center">A passionate frontend developer from India, an EX-INTEL X CBSE AI Student Community Leader , National Exhibition with PM of India.</h3>
 
-- 🔭 I’m currently working on [Sudhaar](https://github.com/jiveshkalra/sudhaar)
+- 🔭 I’m currently working on [Sudhaar](https://github.com/jiveshkalra/mental-health-chatbot)
 
-- 🌱 I’m currently learning **JavaScript, React JS**
+- 🌱 I’m currently learning **JavaScript, React JS , Golang , Rust**
 
 - 💬 Ask me about **Python , AI**
 
