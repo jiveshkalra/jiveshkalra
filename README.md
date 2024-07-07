@@ -1,6 +1,6 @@
 # 💫 About Me:
 - 🏢 I'm studying in class 11th
-- 🔭 I’m currently working on **NavDrishtiAI**
+- 🔭 I’m currently working on **NavDrishtiAI** , [**NavShikshakAI**](https://navshikshakai.vercel.app)
 - 🌱 I’m currently learning **NextJS, AI , Machine Learning , Transformers , LLMs**
 - 👨‍💻 All of my projects are available at [jiveshkalra.me](https://jiveshkalra.me)
 - 💬 Ping me about **AI , LLMs**
