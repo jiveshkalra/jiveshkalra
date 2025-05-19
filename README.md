@@ -2,9 +2,9 @@
 - 🏢 I'm studying in class 12th
 - 🔭 I’m currently working on   , [**ACON 4.0**](https://acon-4-0.vercel.app)
 - 🌱 I’m currently learning **NextJS, AI , Machine Learning , Transformers , LLMs**
-- 👨‍💻 All of my projects are available at [jiveshkalra.me](https://jiveshkalra.me)
+- 👨‍💻 All of my projects are available at [jiveshkalra.tech](https://jiveshkalra.tech)
 - 💬 Ping me about **AI , LLMs**
-- 📫 How to reach me [**Twitter**](https://twitter.com/jivesh_kalra) or [**jiveshkalra4@gmail.com**](mailto:jiveshkalra4@gmail.com) or [**Instagram**](https://instagram.com/jivesh_kalra/) or [**Linkedin**](https://www.linkedin.com/in/jiveshkalra/)
+- 📫 How to reach me [**Twitter**](https://twitter.com/jivesh_kalra) or [**jiveshkalra4@gmail.com**](mailto:jiveshkalra4@gmail.com) or [**Instagram**](https://instagram.com/jivesh_kalra/) or [**Linkedin**](https://www.linkedin.com/in/jiveshkalra/) 
 - 😄 Passionate about AI that enhances lives of people!
 
 ## 🌐 Socials:
